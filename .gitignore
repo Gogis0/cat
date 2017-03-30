@@ -1,3 +1,4 @@
 tests
 cat.c
 *.o
+release
