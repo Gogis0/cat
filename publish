@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp -f my_cat.c release/goga.c
+cp -f fast_cat.c release/goga-bonus.c
