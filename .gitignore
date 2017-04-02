@@ -1,4 +1,5 @@
 tests
 cat.c
 *.o
-release
+release/
+*.out
